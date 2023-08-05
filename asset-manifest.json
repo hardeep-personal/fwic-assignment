@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fwic-assignment/static/css/main.473edb57.css",
+    "main.js": "/fwic-assignment/static/js/main.77674db3.js",
+    "static/js/787.1871f6ed.chunk.js": "/fwic-assignment/static/js/787.1871f6ed.chunk.js",
+    "static/media/v-bg.mp4": "/fwic-assignment/static/media/v-bg.22ad468707f7a6b12318.mp4",
+    "static/media/logo.png": "/fwic-assignment/static/media/logo.fcf38062cc86db1da1a3.png",
+    "index.html": "/fwic-assignment/index.html",
+    "main.473edb57.css.map": "/fwic-assignment/static/css/main.473edb57.css.map",
+    "main.77674db3.js.map": "/fwic-assignment/static/js/main.77674db3.js.map",
+    "787.1871f6ed.chunk.js.map": "/fwic-assignment/static/js/787.1871f6ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473edb57.css",
+    "static/js/main.77674db3.js"
+  ]
+}
